@@ -25,3 +25,13 @@ C:\Users\DELL\Downloads\backens-movil-main\Entidad\obj\Release\netstandard2.1\En
 C:\Users\DELL\Downloads\backens-movil-main\Entidad\obj\Release\netstandard2.1\Entidad.csproj.CoreCompileInputs.cache
 C:\Users\DELL\Downloads\backens-movil-main\Entidad\obj\Release\netstandard2.1\Entidad.dll
 C:\Users\DELL\Downloads\backens-movil-main\Entidad\obj\Release\netstandard2.1\Entidad.pdb
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Entidad\bin\Release\netstandard2.1\Entidad.deps.json
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Entidad\bin\Release\netstandard2.1\Entidad.dll
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Entidad\bin\Release\netstandard2.1\Entidad.pdb
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Entidad\obj\Release\netstandard2.1\Entidad.csproj.AssemblyReference.cache
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Entidad\obj\Release\netstandard2.1\Entidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Entidad\obj\Release\netstandard2.1\Entidad.AssemblyInfoInputs.cache
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Entidad\obj\Release\netstandard2.1\Entidad.AssemblyInfo.cs
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Entidad\obj\Release\netstandard2.1\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Entidad\obj\Release\netstandard2.1\Entidad.dll
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Entidad\obj\Release\netstandard2.1\Entidad.pdb

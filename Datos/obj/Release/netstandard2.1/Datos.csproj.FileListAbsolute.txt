@@ -34,3 +34,16 @@ C:\Users\DELL\Downloads\backens-movil-main\Datos\obj\Release\netstandard2.1\Dato
 C:\Users\DELL\Downloads\backens-movil-main\Datos\obj\Release\netstandard2.1\Datos.csproj.CopyComplete
 C:\Users\DELL\Downloads\backens-movil-main\Datos\obj\Release\netstandard2.1\Datos.dll
 C:\Users\DELL\Downloads\backens-movil-main\Datos\obj\Release\netstandard2.1\Datos.pdb
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\bin\Release\netstandard2.1\Datos.deps.json
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\bin\Release\netstandard2.1\Datos.dll
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\bin\Release\netstandard2.1\Datos.pdb
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\bin\Release\netstandard2.1\Entidad.dll
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\bin\Release\netstandard2.1\Entidad.pdb
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\obj\Release\netstandard2.1\Datos.csproj.AssemblyReference.cache
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\obj\Release\netstandard2.1\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfoInputs.cache
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\obj\Release\netstandard2.1\Datos.AssemblyInfo.cs
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\obj\Release\netstandard2.1\Datos.csproj.CoreCompileInputs.cache
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\obj\Release\netstandard2.1\Datos.csproj.CopyComplete
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\obj\Release\netstandard2.1\Datos.dll
+C:\Users\norma\Documents\GitHub\BakensMovilMicroalParque\Datos\obj\Release\netstandard2.1\Datos.pdb

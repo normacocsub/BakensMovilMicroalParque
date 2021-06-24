@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pz8lOiLUr1HIYnK9Y1rGSe2R/b4WExyJxfmd/pPfKI0Es4CHLuXgRbwqnqqc9GTDcEo6dRYaJdWcuXS12J//WA==",
+  "dgSpecHash": "cD8wwsZV44NUFNlhXOmUe4tdEnqXfQj4KIYvpxKFeCXliN6j3QsT4Mt9SHfHVqr9rGkw2dDdTm+8iF8+n4P2Lg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Entidad\\Entidad.csproj",
+  "projectFilePath": "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Entidad\\Entidad.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+    "C:\\Users\\norma\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

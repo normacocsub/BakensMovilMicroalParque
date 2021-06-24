@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Entidad\\Entidad.csproj": {}
+    "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Entidad\\Entidad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Entidad\\Entidad.csproj": {
+    "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Entidad\\Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Entidad\\Entidad.csproj",
+        "projectUniqueName": "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Entidad\\Entidad.csproj",
         "projectName": "Entidad",
-        "projectPath": "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Entidad\\Entidad.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Entidad\\obj\\",
+        "projectPath": "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Entidad\\Entidad.csproj",
+        "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Entidad\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
         }
       }
     }

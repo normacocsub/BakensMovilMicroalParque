@@ -6910,19 +6910,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\norma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Logica\\Logica.csproj",
+      "projectUniqueName": "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Logica\\Logica.csproj",
       "projectName": "Logica",
-      "projectPath": "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Logica\\Logica.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Logica\\obj\\",
+      "projectPath": "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Logica\\Logica.csproj",
+      "packagesPath": "C:\\Users\\norma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Logica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\norma\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6936,11 +6936,11 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Datos\\Datos.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Datos\\Datos.csproj"
+            "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Datos\\Datos.csproj": {
+              "projectPath": "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Datos\\Datos.csproj"
             },
-            "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Entidad\\Entidad.csproj": {
-              "projectPath": "C:\\Users\\DELL\\Downloads\\backens-movil-main\\Entidad\\Entidad.csproj"
+            "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Entidad\\Entidad.csproj": {
+              "projectPath": "C:\\Users\\norma\\Documents\\GitHub\\BakensMovilMicroalParque\\Entidad\\Entidad.csproj"
             }
           }
         }
@@ -6969,7 +6969,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.5.21302.13\\RuntimeIdentifierGraph.json"
       }
     }
   }
